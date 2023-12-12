@@ -1,0 +1,51 @@
+.app{
+
+    .container{
+
+
+        .auth{
+            
+        }
+
+        .links{
+            display: flex;
+            justify-content: space-between;
+            background-color: beige;
+            .username
+            {
+                font-weight: 900;
+            }
+
+        }
+
+        .column{
+            float: left;
+            padding: 10px;
+            width: 30%;
+        }
+
+        .task
+        {
+            background-color: beige;
+            padding: 5px;
+            margin-top: 5px;
+        }
+
+        .class
+        {
+            background-color: beige;
+            padding: 5px;
+            margin-top: 5px;
+        }
+
+        .task{
+            button
+            {
+                margin-right: 20px;
+                
+            }
+        }
+
+
+    }
+}
